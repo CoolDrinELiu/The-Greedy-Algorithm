@@ -1,0 +1,38 @@
+﻿生成启动时间为 2013/5/13 19:27:49。
+     1>项目“F:\资料\c\projects\Greedy-algorithm\Greedy-algorithm\Greedy-algorithm.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\资料\c\projects\Greedy-algorithm\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Greedy-algorithm.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Greedy-algorithm.cpp"
+         Greedy-algorithm.cpp
+     1>f:\资料\c\projects\greedy-algorithm\greedy-algorithm\greedy-algorithm.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\资料\c\projects\greedy-algorithm\greedy-algorithm\greedy-algorithm.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\资料\c\projects\greedy-algorithm\greedy-algorithm\greedy-algorithm.cpp(6): warning C4101: “rate”: 未引用的局部变量
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt stdafx.c
+         stdafx.c
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Greedy-algorithm.exe.embed.manifest.res" Debug\Greedy-algorithm_manifest.rc 
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Greedy-algorithm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.lib" /MACHINE:X86 "Debug\Greedy-algorithm.exe.embed.manifest.res"
+         "Debug\Greedy-algorithm.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Greedy-algorithm.exe.embed.manifest" /manifest "Debug\Greedy-algorithm.exe.intermediate.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Greedy-algorithm.exe.embed.manifest.res" Debug\Greedy-algorithm_manifest.rc 
+       LinkEmbedManifest:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Greedy-algorithm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.lib" /MACHINE:X86 "Debug\Greedy-algorithm.exe.embed.manifest.res"
+         "Debug\Greedy-algorithm.obj"
+         Debug\stdafx.obj
+         Greedy-algorithm.vcxproj -> F:\资料\c\projects\Greedy-algorithm\Debug\Greedy-algorithm.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Greedy-algorithm.unsuccessfulbuild”。
+         正在对“Debug\Greedy-algorithm.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\资料\c\projects\Greedy-algorithm\Greedy-algorithm\Greedy-algorithm.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.35
